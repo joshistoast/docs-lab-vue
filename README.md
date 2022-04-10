@@ -24,7 +24,6 @@ npm install
 ```bash
 # For production
 npm start
-
 # For development
 npm dev
 ```
@@ -32,8 +31,6 @@ npm dev
 ### Front End
 
 To start the front end, run the following in order:
-
-```bash
 
 ```bash
 cd client
